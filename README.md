@@ -1,3 +1,13 @@
+# Blog source for seminumber.github.io
+
+This is a repo forked by Jekyll Now, which is awesome!
+
+To visit the site, please go to [http://seminumber.github.io](http://seminumber.github.io).
+
+Any line below belongs to Jekyll Now original README and is not related to me.
+
+---- 
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
